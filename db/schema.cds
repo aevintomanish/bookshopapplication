@@ -4,7 +4,7 @@ using {managed,cuid,Currency  } from '@sap/cds/common';
 
 entity Books : managed, cuid{
 
-    @title : 'Title of the book'
+    @title : 'Title of the book cicd'
     title : String;
 
     @title : 'Description'
